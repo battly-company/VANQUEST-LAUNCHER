@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Vanquest Launcher - v1.0.0"
+
+[ejs.landing]
+mediaGitHubURL = "https://vanquest-client.it"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.vanquest-client.it"
+
+[ejs.settings]
+sourceGithubLink = "#"
+supportLink = "#"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU VANQUEST"
+welcomeDescription = ""
+welcomeDescCTA = "Copyright © 2025 Vanquest Studios"
